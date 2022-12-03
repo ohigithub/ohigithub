@@ -19,6 +19,7 @@ I’m currently learning how to make the best data visualizations mainly within 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohigithub&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ohigithub&count_private=true&show_icons=true&include_all_commits=true)
 
 ## :incoming_envelope: Let's connect!
 I can most easily be reached via DanielleJSears@gmail.com or [on LinkedIn.](https://www.linkedin.com/in/daniellejs/)
