@@ -1,9 +1,12 @@
-# 👋 Hi there, I’m Danielle
-:medical_symbol: :bar_chart: I’m interested in data, health, and behavioral economics
+# 👋 Hey there, I’m Danielle
+:medical_symbol:🔬:bar_chart: Bulk Supplements | Marketing Analyst
 
-I’m currently learning how to make the best data visualizations mainly within Excel, SQL, Python, Tableau and am looking to collaborate on projects that use these tools to further devolop these skills!
+I specialize in leveraging data to drive insights into health and consumer engagement by conducting market research, analyzing consumer behavior, and identifying trends to drive data-informed strategies. My goals are to optimize marketing efforts and help consumers reach their own health and fitness goals! I welcome collaborations with fellow professionals to innovative solutions to promote health and wellness.
 
-## ✨ Tools & Technology
+## :incoming_envelope: Let's connect!
+I can most easily be reached via DanielleJSears@gmail.com or [on LinkedIn.](https://www.linkedin.com/in/daniellejs/)
+
+## ✨ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -20,9 +23,6 @@ I’m currently learning how to make the best data visualizations mainly within 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohigithub&hide=TeX&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ohigithub&count_private=true&show_icons=true&include_all_commits=true)
-
-## :incoming_envelope: Let's connect!
-I can most easily be reached via DanielleJSears@gmail.com or [on LinkedIn.](https://www.linkedin.com/in/daniellejs/)
 
 <!---
 ohigithub/ohigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
