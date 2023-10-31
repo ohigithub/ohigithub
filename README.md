@@ -22,7 +22,6 @@ I can most easily be reached via DanielleJSears@gmail.com or [on LinkedIn.](http
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohigithub&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ohigithub&count_private=true&show_icons=true&include_all_commits=true)
 
 <!---
 ohigithub/ohigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
